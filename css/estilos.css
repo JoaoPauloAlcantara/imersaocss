@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://blog.rentcars.com/wp-content/uploads/2011/08/como-dirigir-no-transito-de-campo-grande-3.jpg);
+    background-size: auto 100vh;
+  }
+  
+  .site-title{
+    text-align: center;
+  }
+  
+  .menu {
+    background: white;
+   }
+  
+  .menu ul {
+    display:flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
